@@ -10,13 +10,13 @@
 
 ### Tarkov Squad Helper
 
-Project: https://tarkov-squad-helper.netlify.app
+Project: 
 
 Backend: https://github.com/andreyMalyshkin/TarkovSquadHelper
 
 A collaborative project in JS
 
-The application provides additional functionality for Tarkov players: creating and managing rooms with editable item lists for each participant.
+The application provides additional functionality for Tarkov players: creating and managing rooms with editable item lists for each participant. At the moment, the server is disabled, as similar functionality has been added to the game itself.
 
 ---
 
@@ -24,7 +24,7 @@ The application provides additional functionality for Tarkov players: creating a
 
 #### Development date:
 
-- In progress
+- April 2025
 
 #### Pages:
 
@@ -100,13 +100,13 @@ Website: https://yuriyplotnikovv.ru
 
 ### Tarkov Squad Helper
 
-Проект: https://tarkov-squad-helper.netlify.app
+Проект: 
 
 Бэкенд: https://github.com/andreyMalyshkin/TarkovSquadHelper
 
 Совместный проект на JS
 
-Приложение предоставляет дополнительную функциональность для игроков Tarkov: создание и управление комнатами с редактируемыми списками предметов для каждого участника.
+Приложение предоставляет дополнительную функциональность для игроков Tarkov: создание и управление комнатами с редактируемыми списками предметов для каждого участника. На данный момент сервер отключен, так как схожий функционал завезли в саму игру.
 
 ---
 
@@ -114,7 +114,7 @@ Website: https://yuriyplotnikovv.ru
 
 #### Дата разработки:
 
-- В процессе
+- Апрель 2025
 
 #### Страницы:
 
