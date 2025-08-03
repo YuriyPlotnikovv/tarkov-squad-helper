@@ -4,19 +4,19 @@
     "title-en": "Tarkov Squad Helper",
     "textFirst-ru": "Совместный проект на JS",
     "textFirst-en": "A collaborative project in JS",
-    "textSecond-ru": "Приложение предоставляет дополнительную функциональность для игроков Tarkov: создание и управление комнатами с редактируемыми списками предметов для каждого участника.",
-    "textSecond-en": "The application provides additional functionality for Tarkov players: creating and managing rooms with editable item lists for each participant.",
-    "deploy": "https://tarkov-squad-helper.netlify.app",
+    "textSecond-ru": "Приложение предоставляет дополнительную функциональность для игроков Tarkov: создание и управление комнатами с редактируемыми списками предметов для каждого участника. На данный момент сервер отключен, так как схожий функционал завезли в саму игру.",
+    "textSecond-en": "The application provides additional functionality for Tarkov players: creating and managing rooms with editable item lists for each participant. At the moment, the server is disabled, as similar functionality has been added to the game itself.",
+    "deploy": "",
     "backend": "https://github.com/andreyMalyshkin/TarkovSquadHelper",
     "features": [
         {
             "name-ru": "Дата разработки",
             "name-en": "Development date",
             "description-ru": [
-                "В процессе"
+                "Апрель 2025"
             ],
             "description-en": [
-                "In progress"
+                "April 2025"
             ]
         },
         {
