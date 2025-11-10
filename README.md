@@ -1,6 +1,6 @@
 # Tarkov Squad Helper
 
-<img src=".info/poster.webp" alt="Poster" width="600" />
+
 
 [🇬🇧 English](#english) | [🇷🇺 Русский](#русский)
 
@@ -12,7 +12,7 @@
 
 Project: 
 
-Backend: https://github.com/andreyMalyshkin/TarkovSquadHelper
+Backend: 
 
 A collaborative project in JS
 
@@ -22,16 +22,7 @@ The application provides additional functionality for Tarkov players: creating a
 
 ### About the project
 
-#### Development date:
-
-- April 2025
-
-#### Pages:
-
-- Main
-
-#### Functionality:
-
+#### Functionality
 - Create and enter rooms
 - Search and add items
 - Manage item lists
@@ -39,8 +30,10 @@ The application provides additional functionality for Tarkov players: creating a
 - Up to 5 players per room
 - Invite players via link
 
-#### Not Implemented:
+#### Pages
+- Main
 
+#### Not Implemented
 - Global room list
 - English interface language
 - Player personal account
@@ -102,7 +95,7 @@ Website: https://yuriyplotnikovv.ru
 
 Проект: 
 
-Бэкенд: https://github.com/andreyMalyshkin/TarkovSquadHelper
+Бэкенд: 
 
 Совместный проект на JS
 
@@ -112,16 +105,7 @@ Website: https://yuriyplotnikovv.ru
 
 ### О проекте
 
-#### Дата разработки:
-
-- Апрель 2025
-
-#### Страницы:
-
-- Главная
-
-#### Функциональность:
-
+#### Функциональность
 - Создание и вход в комнату
 - Поиск и добавление предметов
 - Управление списком предметов
@@ -129,8 +113,10 @@ Website: https://yuriyplotnikovv.ru
 - До 5ти игроков в комнате
 - Приглашение игрока по ссылке
 
-#### Не реализовано:
+#### Страницы
+- Главная
 
+#### Не реализовано
 - Общий список комнат
 - Английский язык интерфейса
 - Личный кабинет игрока
