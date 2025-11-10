@@ -1,94 +1,64 @@
 {
-    "id": 11,
-    "title-ru": "Tarkov Squad Helper",
-    "title-en": "Tarkov Squad Helper",
-    "textFirst-ru": "Совместный проект на JS",
-    "textFirst-en": "A collaborative project in JS",
-    "textSecond-ru": "Приложение предоставляет дополнительную функциональность для игроков Tarkov: создание и управление комнатами с редактируемыми списками предметов для каждого участника. На данный момент сервер отключен, так как схожий функционал завезли в саму игру.",
-    "textSecond-en": "The application provides additional functionality for Tarkov players: creating and managing rooms with editable item lists for each participant. At the moment, the server is disabled, as similar functionality has been added to the game itself.",
+    "date": "04.2025",
+    "complexity": "2",
+    "category": "personal",
     "deploy": "",
     "backend": "https://github.com/andreyMalyshkin/TarkovSquadHelper",
-    "features": [
-        {
-            "name-ru": "Дата разработки",
-            "name-en": "Development date",
-            "description-ru": [
-                "Апрель 2025"
-            ],
-            "description-en": [
-                "April 2025"
-            ]
-        },
-        {
-            "name-ru": "Страницы",
-            "name-en": "Pages",
-            "description-ru": [
-                "Главная"
-            ],
-            "description-en": [
-                "Main"
-            ]
-        },
-        {
-            "name-ru": "Функциональность",
-            "name-en": "Functionality",
-            "description-ru": [
-                "Создание и вход в комнату",
-                "Поиск и добавление предметов",
-                "Управление списком предметов",
-                "Смена темы интерфейса",
-                "До 5ти игроков в комнате",
-                "Приглашение игрока по ссылке"
-            ],
-            "description-en": [
-                "Create and enter rooms",
-                "Search and add items",
-                "Manage item lists",
-                "Switch interface theme",
-                "Up to 5 players per room",
-                "Invite players via link"
-            ]
-        },
-        {
-            "name-ru": "Не реализовано",
-            "name-en": "Not Implemented",
-            "description-ru": [
-                "Общий список комнат",
-                "Английский язык интерфейса",
-                "Личный кабинет игрока"
-            ],
-            "description-en": [
-                "Global room list",
-                "English interface language",
-                "Player personal account"
-            ]
-        }
-    ],
+    "title": {
+        "ru": "Tarkov Squad Helper",
+        "en": "Tarkov Squad Helper"
+    },
+    "textFirst": {
+        "ru": "Совместный проект на JS",
+        "en": "A collaborative project in JS"
+    },
+    "textSecond": {
+        "ru": "Приложение предоставляет дополнительную функциональность для игроков Tarkov: создание и управление комнатами с редактируемыми списками предметов для каждого участника. На данный момент сервер отключен, так как схожий функционал завезли в саму игру.",
+        "en": "The application provides additional functionality for Tarkov players: creating and managing rooms with editable item lists for each participant. At the moment, the server is disabled, as similar functionality has been added to the game itself."
+    },
+    "functionality": {
+        "ru": [
+            "Создание и вход в комнату",
+            "Поиск и добавление предметов",
+            "Управление списком предметов",
+            "Смена темы интерфейса",
+            "До 5ти игроков в комнате",
+            "Приглашение игрока по ссылке"
+        ],
+        "en": [
+            "Create and enter rooms",
+            "Search and add items",
+            "Manage item lists",
+            "Switch interface theme",
+            "Up to 5 players per room",
+            "Invite players via link"
+        ]
+    },
     "technologies": [
-        {
-            "name": "HTML",
-            "icon": "icon-html",
-            "link": "https://html.spec.whatwg.org/multipage/"
-        },
-        {
-            "name": "SCSS",
-            "icon": "icon-scss",
-            "link": "https://sass-scss.ru/"
-        },
-        {
-            "name": "JavaScript",
-            "icon": "icon-js",
-            "link": "https://ecma-international.org/publications-and-standards/standards/ecma-262/"
-        },
-        {
-            "name": "Gulp",
-            "icon": "icon-gulp",
-            "link": "https://gulpjs.com/"
-        },
-        {
-            "name": "Vue",
-            "icon": "icon-vue",
-            "link": "https://vuejs.org/"
-        }
-    ]
+        "html",
+        "scss",
+        "javascript",
+        "gulp",
+        "vue"
+    ],
+    "pages": {
+        "ru": [
+            "Главная"
+        ],
+        "en": [
+            "Main"
+        ]
+    },
+    "notImplemented": {
+        "ru": [
+            "Общий список комнат",
+            "Английский язык интерфейса",
+            "Личный кабинет игрока"
+        ],
+        "en": [
+            "Global room list",
+            "English interface language",
+            "Player personal account"
+        ]
+    }
 }
